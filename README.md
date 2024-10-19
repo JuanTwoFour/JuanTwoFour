@@ -2,8 +2,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on becoming your friendly neighborhood Frontend Dev<br>🤝 I’m looking for any help i can get to be the best Frontend Dev I possibly can<br>💬 Feel free to ask me about anything/give feedback on my work<br>⚡ Fun fact about me, I listen to music 24/7
-
+🔭 I’m currently working on becoming your friendly neighborhood Frontend Dev.<br>🤝 I’m looking for any help I can get to be the best Frontend Dev. I possibly can<br>💬 Feel free to ask me about anything/give feedback on my work<br>⚡ Fun fact about me, I listen to music 24/7
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juandosthree) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-vega95) 
